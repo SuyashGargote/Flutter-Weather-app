@@ -16,8 +16,8 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <img src="https://github.com/user-attachments/assets/5910290a-3269-4c5d-ac23-8ea017e64620" alt='image' width='100'/>
- <img src="https://github.com/user-attachments/assets/fe4cbd7f-c987-4a53-9a5f-6fe29507f0d9" alt='image' width='100'/></div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/5910290a-3269-4c5d-ac23-8ea017e64620" alt='image' width='300'/>
+ <img src="https://github.com/user-attachments/assets/fe4cbd7f-c987-4a53-9a5f-6fe29507f0d9" alt='image' width='300'/></div>
 
 ## 🚀 Getting Started
 
