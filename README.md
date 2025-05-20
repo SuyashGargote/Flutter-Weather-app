@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1> Flutter Weather app</h1>
-<p>A simple and clean weather app built using **Flutter**, fetching real-time weather data using an API.</p>
+<p>A simple and clean weather app built using *Flutter*, fetching real-time weather data using an API.</p>
 
 <h4> <span> · </span> <a href="https://github.com/Suyash Gargote/ Flutter-Weather-app/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Suyash Gargote/ Flutter-Weather-app/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Suyash Gargote/ Flutter-Weather-app/issues"> Request Feature </a> </h4>
 
