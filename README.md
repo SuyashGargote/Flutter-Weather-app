@@ -22,6 +22,6 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-<h4>- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Android Studio / VS Code / Xcode
-- A weather API key (e.g., from [OpenWeatherMap](https://openweathermap.org/api))</h4>
+<h4>- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)</h4>
+<h4>- Android Studio / VS Code / Xcode</h4>
+<h4>- A weather API key (e.g., from [OpenWeatherMap](https://openweathermap.org/api))</h4>
